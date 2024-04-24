@@ -1,0 +1,45 @@
+.btn,
+.nav-item :hover {
+  border-radius: 4px;
+}
+
+.nav{
+  background-color: #e3f2fd;
+  padding-top: 10px;
+  height: 60px;
+}
+
+body {
+  background: #0e1924;
+  font-family: 'Public Sans', sans-serif;
+  font-family: 'Signika Negative', sans-serif;
+}
+.footerColor{
+  /* background-image: linear-gradient(to right,#613390, #ecb8fb); */
+  background-color: #e3f2fd;
+  color: #2874f0;
+  margin-bottom: 0px;
+  
+}
+.title{
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+
+.adminDashboardMargin{
+  margin-bottom: 40px;
+}
+
+.card{
+  /* background-color: #211f36; */
+  background-color: #e3f2fd;
+  margin-bottom: 50px;
+
+}
+
+/* @media only screen and (min-width:300px) {
+    .productCard{
+      
+    }
+} */
